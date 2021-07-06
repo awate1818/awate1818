@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Keerthi!
-- 👀 I’m interested Projects and coding.
+- 👀 I’m interested in Projects and coding.
 - 🌱 I’m currently learning  coding languages and concepts and persuing my 3rd year in Computer Science Engineering.
 
 

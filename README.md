@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keerthi!
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning  coding languages and concepts and persuing my 3rd year in Computer Science Engineering.
+- 🌱 I have done an e-commercial website using front end development and also created an LinkedIn Clone by attending a workshop. 
 
 
 <!---
